@@ -2,6 +2,8 @@
 2021-02 네트워크 채팅프로그램 텀 프로젝트
 : 포트포워딩과 소켓을 이용해 자바 채팅 프로그램 구현
 
+<br/>
+
 ## 기술스택
 **Client**
 - Java Swing
@@ -9,6 +11,8 @@
 
 **Server**
 - Java
+
+<br/>
 
 ## 자세한 설명
 ![슬라이드1](https://user-images.githubusercontent.com/87821678/148896760-4c2a52e0-719a-4bf1-9cad-a3078c897f71.PNG)

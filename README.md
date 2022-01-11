@@ -7,7 +7,7 @@
 ## 기술스택
 **Client**
 - Java Swing
-- Android 
+- Android Java
 
 **Server**
 - Java
